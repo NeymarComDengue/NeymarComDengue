@@ -1,16 +1,17 @@
-## Hi there 👋
+### Bem vindo ao meu perfil 😊
 
-<!--
-**NeymarComDengue/NeymarComDengue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Meu nome é Neymar Com Dengue 
 
-Here are some ideas to get you started:
+   - Estou estudando no alura:D
+   - Estou me desenvolvendo na linguagem javaScript
+   - Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     ### Voce entra em contato comigo 📧
+
+     00001107086644sp@al.educacao.sp.gov.br
+     
+     @Renanmendes
+
+
+
+![](https://media1.tenor.com/m/2eWC-i5x54IAAAAd/neyney-neymar.gif)
